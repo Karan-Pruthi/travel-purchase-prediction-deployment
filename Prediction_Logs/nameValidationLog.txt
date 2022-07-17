@@ -1,0 +1,18 @@
+2022-07-15/01:18:43		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-15/01:18:43		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-15/01:18:43		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv
+2022-07-15/01:30:25		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-15/01:30:25		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-15/01:30:25		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv
+2022-07-15/01:36:44		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-15/01:36:44		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-15/01:36:44		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv
+2022-07-15/01:44:44		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-15/01:44:44		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-15/01:44:44		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv
+2022-07-15/01:50:52		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-15/01:50:52		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-15/01:50:52		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv
+2022-07-18/03:52:17		Invalid File Name!! File moved to Bad Raw Folder :: Travel_14012021_113045.csv
+2022-07-18/03:52:17		Invalid File Name!! File moved to Bad Raw Folder :: Travel_15010_130532.csv
+2022-07-18/03:52:17		Valid File name!! File moved to GoodRaw Folder :: travel_15082021_080312.csv

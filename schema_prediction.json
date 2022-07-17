@@ -1,0 +1,26 @@
+{	"SampleFileName": "travel_08012021_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 19,
+	"ColName": {
+		"CustomerID" : "Integer",
+		"Age": "float",
+		"TypeofContact": "varchar",
+		"CityTier": "Integer",
+		"DurationOfPitch": "float",
+		"Occupation": "varchar",
+		"Gender": "varchar",
+		"NumberOfPersonVisiting": "Integer",
+		"NumberOfFollowups": "float",
+		"ProductPitched": "varchar",
+		"PreferredPropertyStar": "float",
+		"MaritalStatus": "varchar",
+		"NumberOfTrips": "Integer",
+		"Passport": "Integer",
+		"PitchSatisfactionScore": "Integer",
+		"OwnCar": "Integer",
+		"NumberOfChildrenVisiting": "float",
+		"Designation": "varchar",
+		"MonthlyIncome": "float"
+	}
+}

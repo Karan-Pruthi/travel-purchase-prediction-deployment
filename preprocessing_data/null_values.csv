@@ -1,0 +1,33 @@
+,columns,missing values count
+0,CustomerID,0
+1,Age,0
+2,TypeofContact,0
+3,CityTier,0
+4,DurationOfPitch,1
+5,Gender,0
+6,NumberOfPersonVisiting,0
+7,NumberOfFollowups,0
+8,PreferredPropertyStar,2
+9,NumberOfTrips,15
+10,Passport,0
+11,PitchSatisfactionScore,0
+12,OwnCar,0
+13,NumberOfChildrenVisiting,2
+14,MonthlyIncome,0
+15,Occupation_Free Lancer,0
+16,Occupation_Large Business,0
+17,Occupation_Salaried,0
+18,Occupation_SmallBusiness,0
+19,MaritalStatus_Divorced,0
+20,MaritalStatus_Married,0
+21,MaritalStatus_Single,0
+22,ProductPitched_Basic,0
+23,ProductPitched_Deluxe,0
+24,ProductPitched_King,0
+25,ProductPitched_Standard,0
+26,ProductPitched_Super Deluxe,0
+27,Designation_AVP,0
+28,Designation_Executive,0
+29,Designation_Manager,0
+30,Designation_Senior Manager,0
+31,Designation_VP,0
